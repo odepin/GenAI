@@ -1,0 +1,6 @@
+torch
+evaluate
+rouge_score
+transformers
+datasets
+peft

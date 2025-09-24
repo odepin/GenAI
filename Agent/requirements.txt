@@ -1,0 +1,10 @@
+python-dotenv
+requests
+yfinance
+yahooquery
+openai
+openai-agents
+streamlit
+matplotlib
+finnhub-python
+aiohttp

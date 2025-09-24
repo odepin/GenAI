@@ -1,0 +1,56 @@
+Title: CoreWeave: Another OpenAI Multibillion DollarDeal Likely
+Link: https://finnhub.io/api/news?id=03ab02b82cb8f61ac1ee1945062ee5a9830267fd82d041082356164f1c75a05a
+Date: 1758619107
+
+Title: Alibaba's Stock Price Does Not Reflect The Reality
+Link: https://finnhub.io/api/news?id=cc2ad189745e38ce36c83c3208ae206b25c4ac171ead9dd2399644fa448e24e9
+Date: 1758618707
+
+Title: Nebius: Winter Is Coming - So Is GPU Demand (Double Upgrade)
+Link: https://finnhub.io/api/news?id=04ae746d9174a76242c946d7aba456481121c3b0f63f7ac90876cd21ef4c2d7a
+Date: 1758618494
+
+Title: Alibaba: China's New AI Chip Champion
+Link: https://finnhub.io/api/news?id=73b1cd4d446fdcadffa8327814a949cddecbbcc237e5368dcf9e736444bfc108
+Date: 1758611234
+
+Title: 3 Economic Issues Investors Should Be Discussing More
+Link: https://finnhub.io/api/news?id=f23275a2f8b1cc64f6dc75d7385b558f411463d50c647ac984f386f40059094b
+Date: 1758567237
+
+Title: Building A $100,000 Dividend Portfolio: Maximizing SCHD's Income With September's Top High-Yield Stocks
+Link: https://finnhub.io/api/news?id=094f3059733b99636f53388146dddd775d0340e06610f6635a3e0a2d2061781d
+Date: 1758556800
+
+Title: Microsoft: Boring But Steadily Growing
+Link: https://finnhub.io/api/news?id=d3e2430f4857d0486f03b3d00b13b923bd8b2e3bc871434e7a1692fbe2e1a696
+Date: 1758549279
+
+Title: The Market Is A Weighing Machine... Eventually
+Link: https://finnhub.io/api/news?id=7dab49adc1ed58ad1b7cd21aff1a9d4931d38b09cc2bdfaa165e2a962f0da39a
+Date: 1758548774
+
+Title: Oracle's TikTok And Meta Updates Are Game Changers
+Link: https://finnhub.io/api/news?id=012ed753b8c14f67168380725f2b88e391e56ad2c78e1ab570bbfba1c18bc175
+Date: 1758539540
+
+Title: The Single-Biggest Risk For BDCs Nobody Is Talking About
+Link: https://finnhub.io/api/news?id=36aaeeb8bd297a2cf4f109ea3b7ee37b9ddfb6969fddbd5b9f41e9d16fb1de82
+Date: 1758531600
+
+Stock Evolution for APPL:
+Empty DataFrame
+Columns: [Open, High, Low, Close, Adj Close, Volume]
+Index: []
+
+Balance Sheet
+Balance Sheet data unavailable for APPL
+
+Cash Flow
+Cash Flow data unavailable for APPL
+
+Income Statement
+Income Statement data unavailable for APPL
+
+Valuation Measures
+Valuation data unavailable for APPL
