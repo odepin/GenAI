@@ -9,7 +9,7 @@ This project address the development of a RAG.
 First, clone this project repository to your local machine using the following command:
 
 ```bash
-git clone 
+git clone https://github.com/odepin/GenAI
 cd '.\RAG\'
 ```
 
